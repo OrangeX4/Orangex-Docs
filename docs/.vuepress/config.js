@@ -5,7 +5,47 @@ module.exports = {
         ['link', { rel: 'icon', href: '/assets/img/logo.png' }]
     ],
     themeConfig: {
-        // logo: '/assets/img/logo.png',
+        sidebar: {
+            '/install/': [
+                ''
+            ],
+            '/hello/': [
+                ''
+            ],
+            '/further/': [
+                ''
+            ],
+            '/python/': [
+                '',
+                'spider'
+            ],
+            '/javascript/': [
+                '',
+                'nodejs',
+                'html',
+                'css',
+                'markdown',
+                'hexo'
+            ],
+            '/cpp/': [
+                ''
+            ],
+            '/java/': [
+                '',
+                'app'
+            ],
+            '/git/': [
+                '',
+                'github'
+            ],
+            '/termux/': [
+                '',
+                'orangex'
+            ],
+            '/': [
+                ''
+            ]
+        },
         nav: [
             { text: '介绍', link: '/' },
             { text: '安装', link: '/install/' },
@@ -42,6 +82,13 @@ module.exports = {
                 items: [
                     { text: 'Git', link: '/git/' },
                     { text: 'GitHub', link: '/git/github.html' },
+                ]
+            },
+            {
+                text: 'Termux', 
+                items: [
+                    { text: 'Termux', link: '/termux/' },
+                    { text: 'Orangex 相关配置', link: '/termux/orangex.html' },
                 ]
             }
         ]
