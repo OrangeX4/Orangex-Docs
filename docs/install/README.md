@@ -46,14 +46,6 @@ sh -c "$(curl -fsSL https://blog.orangex4.cool/demo/orangex/install.sh)"
 
 ![](https://p.pstatp.com/origin/13896000227d13b372c95)
 
-::: tip
-**若中途中断, 请重启 Termux, 并且重新执行该脚本.**
-
-**若看见如下图, 请输入字母'y', 脚本就会继续进行.**
-:::
-
-![](https://p.pstatp.com/origin/138fe00004888beba4631)
-
 
 ::: tip
 **若中途卡顿, 请稍等片刻, 服务器网络状况时常不佳.**
@@ -67,6 +59,11 @@ sh -c "$(curl -fsSL https://blog.orangex4.cool/demo/orangex/install.sh)"
 
 ![](https://p.pstatp.com/origin/1373300025b5b447db927)
 
+::: tip
+**若看见如下图, 请输入字母'y', 脚本就会继续进行.**
+:::
+
+![](https://p.pstatp.com/origin/138fe00004888beba4631)
 
 ::: tip SUCCESS
 **当界面变成如图所示时, 说明安装脚本已经执行完毕了, 恭喜你!**
@@ -77,7 +74,7 @@ sh -c "$(curl -fsSL https://blog.orangex4.cool/demo/orangex/install.sh)"
 ![](https://p.pstatp.com/origin/137a80002b37a51c84df5)
 
 
-# 开始使用 Orangex
+## 开始使用 Orangex
 
 **重启 Termux, 如果安装完成, 你会看见这样的界面:**
 
@@ -91,5 +88,5 @@ sh -c "$(curl -fsSL https://blog.orangex4.cool/demo/orangex/install.sh)"
 
 **恭喜你, 可以开始使用 Orangex 编程了!**
 
-# [下一章 > Hello World](/hello/)
+## [下一章 > Hello World](/hello/)
 
