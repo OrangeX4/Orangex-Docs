@@ -7,7 +7,7 @@ actionText: 快速上手 →
 actionLink: /install/
 features:
 - title: 手机编程
-  details: 借助 Termux 搭建手机上的 Linux 环境，提供几近于电脑的多语言通用编程体验。
+  details: 借助 Termux 搭建手机上的 Linux 环境，提供几近于电脑的多语言通用编程体验, 支持 Python, C++, JavaScript, Java 等多种语言。
 - title: 图形界面
   details: 提供专门为手机设计的、移动端友好的文件资源管理器、代码编辑器和终端快速执行界面。
 - title: 体积较小
