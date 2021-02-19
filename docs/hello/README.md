@@ -199,6 +199,10 @@ Orangex 为你提供了一个移动端适配的, 现代化风格的文件管理�
 **Orangex 的终端运行暂时不支持输入, 不能使用形如 `input` 或 `scanf` 的函数!**  
 **Orangex 的终端运行暂时不支持输入, 不能使用形如 `input` 或 `scanf` 的函数!**  
 **Orangex 的终端运行暂时不支持输入, 不能使用形如 `input` 或 `scanf` 的函数!**  
+
+**复杂的命令请使用 Termux!**  
+**复杂的命令请使用 Termux!**  
+**复杂的命令请使用 Termux!**  
 :::
 
 使用终端运行命令, 首先要掌握两个概念 `Default` 和 `Current`:
