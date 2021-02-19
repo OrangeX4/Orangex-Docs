@@ -61,4 +61,6 @@ title: 爬虫
 
 ### [如何入门 Python 爬虫 - 知乎](https://www.zhihu.com/question/20899988)
 
+### [新浪微博爬虫](https://github.com/dataabc/weibo-crawler)
+
 ### [AndroidHttpCapture - 手机端抓包工具](https://github.com/JZ-Darkal/AndroidHttpCapture)
